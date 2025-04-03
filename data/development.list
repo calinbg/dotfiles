@@ -13,8 +13,15 @@ vim
 docker
 docker-compose
 r-base
-php
+php-cli
 vstudio
 code
 php-gd
 php-sqlite3
+php-zip
+php-curl
+php-opcache
+php-xml
+php-mbstring
+php-sqlite3
+php-xsl

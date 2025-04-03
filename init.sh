@@ -43,6 +43,7 @@ echo "####### Done npm no sudo + globals..."
 sleep 1
 
 # composer (php)
+
 php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
 php composer-setup.php
 php -r "unlink('composer-setup.php');"

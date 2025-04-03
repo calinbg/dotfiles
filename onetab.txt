@@ -1,0 +1,321 @@
+https://caddyserver.com/features | All features of the Caddy Web Server
+https://frankenphp.dev/ | FrankenPHP : The Modern PHP App Server, written in Go
+https://www.getmagical.com/pricing | Pricing | Magical Pricing Plans
+https://www.runpod.io/gpu-instance/pricing | runpod.io/gpu-instance/pricing
+https://dash.plotly.com/ | Dash Documentation & User Guide | Plotly
+https://voila.readthedocs.io/en/stable/ | Table of contents — voila 0.5.0a0 documentation
+https://bokeh.org/ | Bokeh
+https://www.dask.org/ | Dask | Scale the Python tools you love
+https://trigger.dev/?ref=console.dev | Trigger.dev - Effortless automation built for developers
+https://docs.zrok.io/docs/getting-started/ | Getting Started with zrok | Zrok
+https://nx.dev/?ref=console.dev | Nx: Smart, Fast and Extensible Build System
+https://www.malloydata.dev/language | malloy - Language
+https://hurl.dev/?ref=console.dev | Hurl - Run and Test HTTP Requests
+https://goaccess.io/get-started | GoAccess - Get Started
+https://ntfy.sh/?ref=console.dev | ntfy.sh | Send push notifications to your phone via PUT/POST
+https://devenv.sh/?ref=console.dev | Fast, Declarative, Reproducible, and Composable Developer Environments - devenv
+https://logto.io/?ref=console.dev | Logto: An open-source solution that creates a delightful identity experience
+https://www.hetzner.com/ | Dedicated Server, Cloud, Storage & Hosting
+https://www.vultr.com/ | SSD VPS Servers, Cloud Servers and Cloud Hosting - Vultr.com
+https://sampler.dev/?ref=console.dev | sampler
+https://www.convex.dev/?ref=console.dev | Convex
+https://www.topaz.sh/?ref=console.dev | Topaz | Topaz
+https://kapeli.com/dash?ref=console.dev | Dash for macOS - API Documentation Browser, Snippet Manager - Kapeli
+https://docs.deref.io/exo/ | About Exo - Exo
+https://github.com/serversideup/spin?ref=console.dev | serversideup/spin at console.dev
+https://plainframework.com/docs/ | Docs · Plain
+https://dicedb.io/?ref=console.dev | DiceDB - an open-source, fast, reactive, in-memory database optimized for modern hardware.
+
+https://www.digitalocean.com/solutions/laravel-hosting#what-is-laravel-web-hosting | Laravel hosting | DigitalOcean
+https://www.digitalocean.com/pricing/droplets | Droplet Pricing | DigitalOcean
+https://cast.ai/blog/cloud-pricing-comparison-aws-vs-azure-vs-google-cloud-platform/ | Cloud Pricing Comparison for 2023: AWS vs. Azure vs. Google Cloud Platform - CAST AI
+https://www.linode.com/ | Cloud Computing | VMs, Kubernetes, Storage | Akamai
+https://rotld.ro/register-a-new-ro-domain/?domain=laccont.ro | Înregistrare Domeniu .ro | RoTLD - Romania Top Level Domain
+https://client.hostgate.ro/cart.php?a=add&domain=register&query=laccont | Coș de cumpărături - HOSTGATE.RO
+https://www.hostgator.com/ | Web Hosting - Best Website Hosting | HostGator.com
+https://hostgate.org/business/ | Business Web Hosting - Free Domain - $4.95/m
+https://www.hostinger.com/web-hosting | Web Hosting | A Fast and Secure Platform for Your Website
+https://firmedehosting.ro/ | Cele mai bune firme de web hosting in Romania in 2024
+https://www.xservers.ro/ | Hosting | Servere dedicate | VPS - xServers
+https://www.hostinger.com/tutorials/best-web-hosting | 10 Best Web Hosting Providers in 2024
+https://www.namecheap.com/domains/registration/results/?domain=laccont.com | Namecheap
+https://www.cloudforgesoftware.com/ | CloudForge: Modern Software for the Metal Industry
+
+https://www.kerrisdalecap.com/blog/?cat=long | Kerrisdale Capital Blog - Kerrisdale Capital
+https://www.sprucepointcap.com/figs-inc/ | FIGS, Inc. | Spruce Point Capital Management
+https://seekingalpha.com/ | Seeking Alpha | Stock Market Analysis & Tools for Investors
+https://ark-funds.com/ | Innovation ETFs by ARK Invest | Innovation is Key to Growth
+https://blockpit.io/en/pricing/ | Pricing | Bitcoin Tax Software for Cryptos by Blockpit
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=trading%20-%20Anyone%20know%20of%20an%20API%20I%20can%20get%20historical%20price%20time%20series%20for%20multiple%20coins%20-%20Bitcoin%20Stack%20Exchange&pos=901&uri=https://bitcoin.stackexchange.com/questions/52674/anyone-know-of-an-api-i-can-get-historical-price-time-series-for-multiple-coins | trading - Anyone know of an API I can get historical price time series for multiple coins - Bitcoin Stack Exchange
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=kroitor%2Fccxt%3A%20A%20JavaScript%20%2F%20Python%20%2F%20PHP%20cryptocurrency%20trading%20API%20with%20support%20for%20more%20than%20100%20bitcoin%2Faltcoin%20exchanges&pos=340.71429443359375&uri=https://github.com/kroitor/ccxt | kroitor/ccxt: A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+https://bybit-exchange.github.io/docs/inverse/?python--pybit#t-latestsymbolinfo | Latest Information for Symbol – Bybit API Docs
+https://endotech.io/ | Algorithmic trading for Cryptocurrency Markets | Endotech
+https://mudrex.com/ | Mudrex - Easiest way to invest in Crypto
+https://github.com/mrjbq7/ta-lib | mrjbq7/ta-lib: Python wrapper for TA-Lib (http://ta-lib.org/).
+https://apilist.fun/category/cryptocurrency | A List Of 38 Cryptocurrency APIs | APIList.fun
+https://daveskender.github.io/Stock.Indicators.Python/indicators/ | Indicators and overlays | Stock Indicators for Python
+https://www.globalcitizensolutions.com/nhr-portugal-tax-regime/ | NHR Portugal - The complete guide to the non-habitual resident regime
+https://usdebtclock.org/# | U.S. National Debt Clock : Real Time
+https://cryptodashapp.com/ | Updating...
+https://www.cointracker.io/wallets/1 | Wallets | CoinTracker
+https://www.exodus.com/download/ | Crypto Wallet App Download for Desktop & Mobile | Exodus Download
+https://www.coinomi.com/en/#why | Coinomi: The blockchain wallet trusted by millions.
+https://github.com/orca-so/typescript-sdk/tree/55eb802db6d51f9e51f614cbf2e2dfea5dc6f5ff | orca-so/typescript-sdk at 55eb802db6d51f9e51f614cbf2e2dfea5dc6f5ff
+https://www.orca.so/whirlpools/browse | Orca | The DEX for people, not programs
+https://marinade.finance/ | marinade.finance | marinade
+https://docs.marinade.finance/developers/marinade-ts-js-sdk | Marinade Ts/Js SDK - Marinade.Finance
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=What%20Are%20the%20Best%20Measurements%20of%20Economic%20Growth%3F&pos=3776.25&uri=https://www.investopedia.com/ask/answers/032515/what-are-best-measurements-economic-growth.asp | What Are the Best Measurements of Economic Growth?
+https://github.com/marinade-finance/marinade-ts-sdk | marinade-finance/marinade-ts-sdk: Marinade SDK for Typescript
+https://www.tradingview.com/chart/BTCUSD/Q94URaz2-Fibo-arcs-pattern-bullish/ | Fibo arcs pattern (bullish) for BITSTAMP:BTCUSD by XLaboratories — TradingView
+
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Buy%20Gold%20or%20Buy%20Biden%20(roadhouse)&pos=0&uri=https://resourceinsider.com/gold-or-biden/?orid=13136&utm_source=ONTRAPORT-email-broadcast&utm_medium=ONTRAPORT-email-broadcast&utm_term=Copy+of+OWTW+Send&utm_content=If+you+don%27t+own+gold%2C+you%27re+long+Biden+%F0%9F%98%A7&utm_campaign=20210801 | Buy Gold or Buy Biden (roadhouse)
+https://2022-sc-reports.s3.us-west-1.amazonaws.com/FREE%2C+2022_6_19_+SilverChartist+Report.pdf?utm_content=13619552&utm_medium=Email&utm_name=Id&utm_source=Actionetics&utm_term=Email | https://2022-sc-reports.s3.us-west-1.amazonaws.com/FREE%2C+2022_6_19_+SilverChartist+Report.pdf?utm_content=13619552&utm_medium=Email&utm_name=Id&utm_source=Actionetics&utm_term=Email
+https://mikesmoneytalks.ca/how-to-use-the-cot-report-in-gold-investing/ | How to Use the CoT Report in Gold Investing?
+
+https://www.youtube.com/watch?v=jVVFg_tzWJA | Order Flow Trading Basics - YouTube
+https://stackabuse.com/creating-pdf-invoices-in-python-with-borb/ | Creating PDF Invoices in Python with borb
+https://www.youtube.com/watch?v=xfzGZB4HhEE&list=WL&index=18&t=2196s | Algorithmic Trading Using Python - Full Course - YouTube
+https://www.warp.dev/blog/introducing-warp-ai?ref=console.dev | Introducing Warp: The Terminal for the 21st Century | Warp
+https://docs.exaloop.io/codon?ref=console.dev | Welcome to Codon | Codon: high-performance Python compiler
+https://www.highlight.io/?ref=console.dev | highlight.io: The open source monitoring platform.
+https://docs.openbb.co/terminal | Page Not Found | OpenBB Docs
+https://bitcoin.stackexchange.com/questions/52674/anyone-know-of-an-api-i-can-get-historical-price-time-series-for-multiple-coins | trading - Anyone know of an API I can get historical price time series for multiple coins - Bitcoin Stack Exchange
+https://www.investopedia.com/articles/fundamental-analysis/09/five-must-have-metrics-value-investors.asp | 5 Must-Have Metrics for Value Investors
+https://seekingalpha.com/article/4542562-23-september-value-buys-per-ben-grahams-formula | 23 September Value Buys Per Ben Graham's Formula | Seeking Alpha
+
+https://www.freqst.com/charts?month=20230801 | FreqST - Discover the Best Freqtrade Strategies
+https://github.com/davidzr/freqtrade-strategies | davidzr/freqtrade-strategies
+https://www.freqtrade.io/en/stable/plugins/#pairlists-and-pairlist-handlers | Plugins - Freqtrade
+https://am.gs.com/ro-ro/individual/funds/detail/PV104874/LU0121174006/goldman-sachs-global-climate-environment-equity | Goldman Sachs Global Climate & Environment Equity | INGLCHC LX | Class X Cap USD
+https://github.com/freqtrade/technical/tree/main/docs | technical/docs at main · freqtrade/technical
+https://github.com/ranaroussi/qtpylib/blob/main/qtpylib/schema.sql | qtpylib/qtpylib/schema.sql at main · ranaroussi/qtpylib
+https://qtpylib.io/docs/latest/ | QTPyLib, Pythonic Algorithmic Trading — QTPyLib latest documentation
+https://earlymoderntexts.com/texts | EMT - Texts
+https://www.freqtrade.io/en/stable/plotting/ | Plotting - Freqtrade
+https://docs.google.com/spreadsheets/d/1NmgX4gUAIoBZqEgliUVQQzO0Uhf3jMpunAT1UHWcXOQ/edit?gid=17590223#gid=17590223 | URNJ+SILJ - Google Sheets
+https://amplifyetfs.com/silj-holdings/ | SILJ Holdings - Amplify ETFs
+https://www.planetpython.org/ | Planet Python
+https://pythonbytes.fm/ | Python Bytes Podcast
+https://open.spotify.com/show/1BZN7H3ikovSejhwQTzNm4 | Data Skeptic | Podcast on Spotify
+https://www.investopedia.com/top-7-technical-analysis-tools-4773275 | 7 Technical Indicators To Build a Trading Tool Kit
+
+https://www.codecademy.com/catalog/language/python | Best Python Courses + Tutorials | Codecademy
+
+https://www.youtube.com/watch?v=GN0iK5ws0iE&list=WL&index=442&t=94s | John Bollinger on Bollinger Bands for MetaStock - YouTube
+https://www.youtube.com/watch?v=-JQMmFBOaR4&list=WL&index=458&t=570s | Master Bollinger Bands in Just One Class - YouTube
+https://www.youtube.com/watch?v=Jn3P-SSCiRU&list=WL&index=461 | The Only BOLLINGER BANDS Strategies You Will Ever Need - YouTube
+https://gaiasagrada.com/gaia-sagrada-retreat-dates-2/ | Page not found - Gaia Sagrada Ayahuasca Retreat Center - Ecuador, South America
+https://docs.google.com/spreadsheets/d/1gRIguNpZsQcfAFWsnNnstZBbF9uTVNX9ap6Pujt6Eaw/edit?gid=1800926153#gid=1800926153 | Research tools July 2023 - Google Sheets
+https://aider.chat/ | Aider - AI Pair Programming in Your Terminal
+https://www.youtube.com/watch?v=6QOboH_wKL4&list=PLdIDMj3VSgBfRYygdixt6Msj2c5K8Kmfg&index=2 | Free Basic Drawing Class #1! Getting Started with simple drawings, and Art Supply buying guide. - YouTube
+https://smartpokerstudy.com/the-course-skill-1-podcast-22/ | ‘The Course’ Skill #1 ‘Play a Simple and Effective Pre-flop Strategy’
+https://mx.investing.com/etfs/urnj | URNJ | ETF Sprott Junior Uranium Miners - Investing.com México
+
+https://themes.muffingroup.com/be/accountant4/services/ | Services – BeAccountant 4 – Betheme
+https://www.youtube.com/watch?v=Zddof7W_xnY | 11 Section layouts to make your website ultra UNIQUE - YouTube
+https://www.svgrepo.com/svg/10829/management | Management Vector SVG Icon (4) - SVG Repo
+https://pixabay.com/videos/sea-ocean-seagulls-birds-sunset-140111/ | Sea, Ocean, Seagulls. Free Stock Video - Pixabay
+https://pkffinconta.ro/ | Home - PKF
+https://pkffinconta.ro/politica-de-cookie-uri/ | Politica de cookie-uri - PKF
+
+https://abacus.ai/chat_llm-ent | Abacus.AI - ChatLLM Teams
+https://www.youtube.com/watch?v=7q_OJvQQ7vY | How to get started with Machine Learning - YouTube
+https://arcticdb.io/ | ArcticDB
+https://github.com/coqui-ai/TTS?tab=readme-ov-file | GitHub - coqui-ai/TTS: 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
+https://www.pyquantnews.com/the-pyquant-newsletter/3-ways-quants-detect-market-regimes-for-an-edge | 3 ways quants detect market regimes for an edge - PyQuant News
+https://x.com/pyquantnews/status/1822301037065027652 | (2) PyQuant News 🐍 on X: "We’re entering a new era of quantitative analysis. Where anyone can get big results with little effort. Want to build an analytics app? Here's 13 Python libraries to get you started now:" / X
+https://www.rtfxd.com/ | Real Time FX Data | Cheapest Real Time Data (No API needed )
+https://www.pybroker.com/en/latest/ | Algorithmic Trading in Python with Machine Learning — PyBroker
+
+chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=How%20to%20check%20my%20wallet%20activity%20on%20the%20blockchain%20explorer%20%E2%80%93%20MetaMask&pos=0&uri=https://support.metamask.io/hc/en-us/articles/360057536611-How-to-check-my-wallet-activity-on-the-blockchain-explorer | How to check my wallet activity on the blockchain explorer – MetaMask
+chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=Best%20Indicators%20to%20Complement%20MACD&pos=0&uri=https://www.investopedia.com/ask/answers/122314/what-are-best-technical-indicators-complement-moving-average-convergence-divergence-macd.asp | Best Indicators to Complement MACD
+chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=relative%20volume%20how%20to%20use%20-%20Brave%20Search&pos=0&uri=https://search.brave.com/search?q=relative+volume+how+to+use&source=desktop | relative volume how to use - Brave Search
+chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=What%20is%20Relative%20Volume%20and%20How%20do%20we%20Use%20It%3F%20%F0%9F%99%8B%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=_s2vkOOMwo0 | What is Relative Volume and How do we Use It? 🙋 - YouTube
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGxTFSjspDQPCBffJbDlzcRTMpn | Q1 Was Wild! What’s Coming Next? 👀 - calin.s.bogdan@gmail.com - Gmail
+chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=My%20First%20Million%20%2B%20HubSpot%20%7C%20Business%20Idea%20Database&pos=0&uri=https://offers.hubspot.com/business-idea-database?hubs_signup-url=offers.hubspot.com%2Fmfm-business-idea&hubs_signup-cta=Submit#widget_1709666927836 | My First Million + HubSpot | Business Idea Database
+chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=Top%20Meme%20Coins%20by%20Market%20Cap%20%7C%20CoinGecko&pos=0&uri=https://www.coingecko.com/en/categories/meme-token | Top Meme Coins by Market Cap | CoinGecko
+chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=Countries%20With%20the%20Highest%20and%20Lowest%20Corporate%20Tax%20Rates&pos=0&uri=https://www.investopedia.com/articles/personal-finance/051915/corporate-tax-rates-highs-and-lows.asp | Countries With the Highest and Lowest Corporate Tax Rates
+
+https://github.com/day0market/support_resistance | day0market/support_resistance: Small package that helps to find support and resistance levels and plot them on chart
+chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=A%20Simple%20Python%20Function%20to%20Detect%20Support%2FResistance%20Levels%20-%20Kite%20Connect%20developer%20forum&pos=0&uri=https://kite.trade/forum/discussion/1047/a-simple-python-function-to-detect-support-resistance-levels | A Simple Python Function to Detect Support/Resistance Levels - Kite Connect developer forum
+chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=How%20to%20Detect%20Support%20%26%20Resistance%20Levels%20and%20Breakout%20using%20Python%20%7C%20by%20Yong%20Hong%20Tan%20%7C%20DataDrivenInvestor&pos=0&uri=https://medium.datadriveninvestor.com/how-to-detect-support-resistance-levels-and-breakout-using-python-f8b5dac42f21 | How to Detect Support & Resistance Levels and Breakout using Python | by Yong Hong Tan | DataDrivenInvestor
+
+https://www.skool.com/tradingtribe/classroom/79d089e6?md=8915090e9a47466fa6b307323e4431a8 | What the 1% Challenge will do for you - 1% Challenge · Trading Tribe
+https://www.youtube.com/playlist?list=PL_3mq10R8nV_QTIo5O9TnYhR6pgJKNWuJ | D3 - Dream Interpretation for Everyone - YouTube
+https://en.wikipedia.org/wiki/Traumatic_bonding | Traumatic bonding - Wikipedia
+https://en.wikipedia.org/wiki/Cycle_of_abuse | Cycle of abuse - Wikipedia
+https://github.com/mokuappio/serverless-invoices | mokuappio/serverless-invoices: Create and manage invoices in your browser. Serverless Invoices is a free invoicing tool for freelancers and small businesses. Made with Vue.js.
+https://github.com/aliabb01/invoify?tab=readme-ov-file | aliabb01/invoify: An invoice generator app built using Next.js, Typescript, and Shadcn
+
+https://coderabbit.ai/?utm_source=sponsor&utm_medium=console.dev&ref=console.dev | AI Code Reviews | CodeRabbit | Try for Free
+https://idx.google.com/templates?category=web-app | Project IDX
+
+https://hurl.dev/docs/tutorial/your-first-hurl-file.html | Your First Hurl File
+https://logdy.dev/?ref=console.dev | Logdy a web viewer for logs | Logdy
+https://dokploy.com/?ref=console.dev | Dokploy - Effortless Deployment Solutions
+https://github.com/NimbleMarkets/ntcharts?ref=console.dev | NimbleMarkets/ntcharts at console.dev
+https://stytch.com/?utm_source=console.dev&utm_medium=paid_sponsorship&utm_content=console-review&utm_campaign=console-review-q2-2024&ref=console.dev | Stytch – The most powerful identity platform built for developers
+https://statusnook.com/?ref=console.dev | Statusnook
+https://hatchet.run/?ref=console.dev | Hatchet
+https://reflex.dev/?ref=console.dev | Reflex · Web apps in Pure Python
+https://www.freqtrade.io/en/stable/ | Freqtrade
+
+https://www.youtube.com/playlist?list=PLyflwShPni-ZDU8whllf_gDp65X9zWKeS | The 3 Bar Play - YouTube
+https://www.bybit.com/en/help-center/article/Funding-fee-calculationBybit_Perpetual_Contract_mechanism | Funding Fee Calculation
+https://www.bybit.com/en/help-center/article/Profit-Loss-calculations-USDT-Contract | P&L Calculations (USDT Contract)
+https://www.bybit.com/en/announcement-info/open-interest | Announcement Info Derivatives
+https://tradingriot.com/smart-money-concepts-ict/ | Breaking Down Popular Price Action Strategies (Smart Money Concepts and ICT Trading) - Tradingriot.com
+https://tradingriot.com/trade-management/ | Trade Management: How to minimize risks and maximize rewards in your trading - Tradingriot.com
+https://tradingriot.com/technical-analysis-course/ | The Only Technical Analysis Course You Will Ever Need - Tradingriot.com
+https://tradingriot.com/market-microstructure/ | Market Microstructure Explained - Why and how markets move - Tradingriot.com
+https://tradingriot.com/trading-style/ | How to choose trading style and markets to trade - Tradingriot.com
+
+https://www.reddit.com/r/UraniumSqueeze/comments/npuiaf/new_investors_starting_post_so_youre_considering/ | NEW INVESTORS STARTING POST: So You're Considering Investing in Uranium : r/UraniumSqueeze
+https://www.reddit.com/r/Trading/comments/k70ptj/5_tips_for_trading_noobs/ | 5 Tips for Trading Noobs : r/Trading
+https://www.reddit.com/r/investing/comments/9y490a/comment/e9yc3ha/ | What are the best investing books for beginners in stock market? : r/investing
+
+https://www.reddit.com/r/unclebens/comments/el1da3/part_1_how_mushrooms_and_mycelium_grow/ | 🍄 Part 1: How Mushrooms and Mycelium Grow 🍄 Shroomscout’s Comprehensive “Easiest Way to Learn Shroom Growing with Uncle Bens Tek” Instructions. : r/unclebens
+https://www.reddit.com/r/unclebens/comments/el1d8q/part_2_inoculating_uncle_bens_for_colonization/ | 🍄 Part 2: Inoculating Uncle Bens for Colonization 🍄 Shroomscout’s Comprehensive “Easiest Way to Learn Shroom Growing with Uncle Bens Tek” Instructions. : r/unclebens
+https://www.reddit.com/r/unclebens/comments/el1d74/part_3_spawning_to_bulk_fruiting_shroomscouts/ | 🍄 Part 3: Spawning to Bulk (Fruiting) 🍄 Shroomscout’s Comprehensive “Easiest Way to Learn Shroom Growing with Uncle Bens Tek” Instructions. : r/unclebens
+https://www.reddit.com/r/unclebens/comments/el1cvr/part_4_harvesting_drying_and_preparing_for_the/ | 🍄 Part 4: Harvesting, Drying, and Preparing for the Next Flush 🍄 Shroomscout’s Comprehensive “Easiest Way to Learn Shroom Growing with Uncle Bens Tek” Instructions. : r/unclebens
+
+https://docs.google.com/document/d/15c3rN15rkXldY8Te3GDG4NG7noaaoikydOoZQlElwXw/edit | @CryptoCred Trading Education - Google Docs
+https://www.investopedia.com/articles/technical/02/010702.asp | How to Use Stock Volume to Improve Your Trading
+https://stockstotrade.com/relative-volume/ | Relative Volume: What It Is and How to Use It
+https://getpocket.com/login?src=web-auth&utm_source=https://getpocket.com/read/3708903576 | Pocket: Log In
+https://medium.com/@cryptocreddy/building-a-trading-system-where-to-start-e96381c28c2f | Building a Trading System: Where to Start | by CryptoCred | Medium
+https://tradingriot.com/futures-options-and-derivatives/ | Understanding futures, options and other derivatives - Tradingriot.com
+https://tradingriot.com/cryptocurrency-derivatives/ | Understanding Cryptocurrency Derivatives Data (Open Interest, Funding, Liquidations and Cumulative Volume Delta) - Tradingriot.com
+https://medium.com/@cryptocreddy/worst-things-to-do-after-a-losing-trade-6ffd147af9d0 | Worst Things to Do After a Losing Trade | by CryptoCred | Medium
+https://www.reddit.com/r/Trading/comments/l8oqne/how_i_scan_for_the_best_breakout_stocks/ | How I Scan For The Best Breakout Stocks : r/Trading
+https://www.reddit.com/r/Trading/comments/ncydg8/inflation_is_bad_for_most_asset_classes_except/ | Inflation is Bad for Most Asset Classes... Except Gold and Oil : r/Trading
+https://www.reddit.com/r/Trading/comments/nodllg/zimmers_breakout_watchlist_for_week_of_june_1st/ | Zimmer's Breakout Watchlist for Week of June 1st, 2021 : r/Trading
+https://www.reddit.com/r/pennystocks/comments/l36uwg/a_scanner_which_has_got_me_a_pretty_good_success/ | A scanner which has got me a pretty good success rate (~85% success rate) : r/pennystocks
+chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=10%20BEST%20Crypto%20Indicators%20You%20Want%20To%20Start%20Using%20NOW!!%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=ha-_sFEM0QE | 10 BEST Crypto Indicators You Want To Start Using NOW!! - YouTube
+https://etfdb.com/etfs/natural-resources/agriculture/ | Agriculture ETF List
+https://www.investopedia.com/articles/pf/11/prepare-for-a-financial-crisis.asp | 10 Ways to Prepare for a Personal Financial Crisis
+
+https://github.com/gpt-engineer-org/gpt-engineer?utm_source=www.neatprompts.com&utm_medium=newsletter&utm_campaign=amazon-s-ai-creates-entire-books | gpt-engineer-org/gpt-engineer: Specify what you want it to build, the AI asks for clarification, and then builds it.
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Prisma%20-%20Next-generation%20Node.js%20and%20TypeScript%20ORM%20for%20Databases&pos=0&uri=https://www.prisma.io/ | Prisma - Next-generation Node.js and TypeScript ORM for Databases
+https://www.bitchute.com/video/u7v1uYQffSR2/ | Planet Earth Series: Part 8/9 - The Financial System
+
+https://clickhouse.pt/en/gama/gama-tiny-houses/ | Gamma Tiny Houses - Clickhouse - Arquitetura ModularClickhouse – Arquitetura Modular
+https://www.karmod.eu/45-m2-steel-home/ | 45 m² Steel Home - Practical and Stylish Small Home
+https://www.karmod.eu/prefab-home-73-m2/ | Versatile Prefab Home 73 m²
+https://www.karmod.eu/tiny-house/ | Cozy Tiny House Living
+https://www.kitur.pt/en/produtos/12 | Kitur
+https://www.jular.pt/en/produtos/casas-pre-fabricadas/casas-modulares-treehouse-riga | Jular | Madeiras, Casas Modulares, Pavimentos, Decks, Estruturas, Revestimentos e Placas
+
+https://www.pwc.ro/en/tax-legal/alerts/The-procedure-for-the-use-and-operation-of-RO-e-Transport-System-ANAF-AVR-Order-no-1190-4625-2022-and-GEO-no-106-2022.html | The procedure for the use and operation of RO e-Transport System: ANAF/AVR Order no. 1190/4625/2022 and GEO no. 106/2022
+https://mfinante.gov.ro/ro/web/etransport/informatii-tehnice | Informații tehnice - eTransport - MF
+https://mfinante.gov.ro/static/10/eTransport/etransport_10032023.pdf | etransport_10032023.pdf
+https://static.anaf.ro/static/10/Anaf/legislatie/OPANAF_1190_2022.pdf | OPANAF_1190_2022.pdf
+https://lege5.ro/Gratuit/gezdsmzrgmzdg/ordinul-nr-106-2022-pentru-aprobarea-normelor-privind-autorizarea-si-verificarea-furnizorilor-de-servicii-de-formare-pentru-securitate-cibernetica#:~:text=Ordinul%20nr.-,106%2F2022%20pentru%20aprobarea%20Normelor%20privind%20autorizarea%20%C5%9Fi%20verificarea%20furnizorilor,de%20formare%20pentru%20securitate%20cibernetic%C4%83 | Ordinul nr. 106/2022 pentru aprobarea Normelor privind autorizarea şi verificarea furnizorilor de servicii de formare pentru securitate cibernetică - Lege5.ro
+
+https://graphite.dev/?ref=console.dev | Graphite - How the fastest developers ship code
+https://kamal-deploy.org/?ref=console.dev | Kamal — Deploy web apps anywhere
+
+https://waldenlabs.com/compost-water-heaters-from-jean-pain/ | Compost Water Heater With The Jean Pain Method - Walden Labs
+http://www.cssplay.co.uk/menu/tablescroll.html | Stu Nicholls | CSS PLAY | CSS scrolling tables
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=MySQL%3A%20Building%20the%20best%20INDEX%20for%20a%20given%20SELECT&uri=http://mysql.rjweb.org/doc.php/index_cookbook_mysql | MySQL: Building the best INDEX for a given SELECT
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=API%20testing%20tips%20from%20a%20Postman%20professional%20%E2%80%93%20Postman%20Blog&uri=http://blog.getpostman.com/2017/07/28/api-testing-tips-from-a-postman-professional/ | API testing tips from a Postman professional – Postman Blog
+
+https://github.com/zofe/rapyd-laravel | zofe/rapyd-laravel: rapyd: crud widgets for laravel. datatable, grids, forms, in a simple package
+
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=https://qz.com/978273/a-stanford-professors-15-minute-study-hack-improves-test-grades-by-a-third-of-a-grade/ | A Stanford researcher's 15-minute study hack improves test grades by a third of a grade — Quartz
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=fakiolinho%2Flaravel-collections-examples%3A%20Laravel%20Collections%20Examples&uri=https://github.com/fakiolinho/laravel-collections-examples | fakiolinho/laravel-collections-examples: Laravel Collections Examples
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=How%20to%20undo%20(almost)%20anything%20with%20Git&uri=https://github.com/blog/2019-how-to-undo-almost-anything-with-git | How to undo (almost) anything with Git
+
+https://www.codementor.io/johnnyb/javascript-cheatsheet-fb54lz08k | The Ultimate JavaScript Cheat Sheet | Codementor
+https://markmanson.net/life-cheat-codes?utm_campaign=mmnet-newsletter-2017-03-31&utm_medium=email&utm_source=mmnet-newsletter&utm_content=read-life-is-a-video-game | Life Is a Video Game—Here Are the Cheat Codes
+http://forumserver.twoplustwo.com/174/poker-goals-amp-challenges/journey-becoming-live-pro-1498003/?highlight= | The Journey Of Becoming A Live Pro - Poker Goals & Challenges -- Two Plus Two Poker Forums
+
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Introduction%20%7C%20OpenBB%20Docs&pos=0&uri=https://docs.openbb.co/terminal | Introduction | OpenBB Docs
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=CoinMarketCap%20API%20Documentation&pos=66914&uri=https://coinmarketcap.com/api/documentation/v1/#operation/getV2CryptocurrencyQuotesLatest | CoinMarketCap API Documentation
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=React%2C%20Props%2C%20State%20%7C%20CS50M%202020%20%7C%20CS50's%20Mobile%20App%20Development%20with%20React%20Native%20%7C%20edX&pos=0&uri=https://learning.edx.org/course/course-v1:HarvardX+CS50M+Mobile/block-v1:HarvardX+CS50M+Mobile+type@sequential+block@88f94bc309fc4fffb4c8479ffa0b18e8/block-v1:HarvardX+CS50M+Mobile+type@vertical+block@00e6f650f914424581f5e431f4a18016 | React, Props, State | CS50M 2020 | CS50's Mobile App Development with React Native | edX
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Rojeco%20Stainless%20Steel%20Pet%20Water%20Dispenser%20Cat%20Water%20Fountain%20Drinking%20Fountain%20For%20Cats%20Automatic%20Sensor%20Drinker%20For%20Cat%20Feeder%20-%20Cat%20Automatic%20Feeders%20-%20AliExpress&pos=0&uri=https://www.aliexpress.com/item/1005004033726574.html?spm=a2g0o.productlist.main.81.501d50edjh6zGf&pdp_ext_f=%7B%22sku_id%22%3A%2212000030466952224%22%7D&pdp_npi=2%40dis%21RON%21263.07%21178.87%21%21%21%21%21%40210219c216735237033218986d0689%2112000030466952224%21sea&curPageLogUid=RDgSXn9MWC1N | Rojeco Stainless Steel Pet Water Dispenser Cat Water Fountain Drinking Fountain For Cats Automatic Sensor Drinker For Cat Feeder - Cat Automatic Feeders - AliExpress
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Querying%20the%20Database%20%7C%20Convex%20Developer%20Hub&pos=4412.857421875&uri=https://docs.convex.dev/using/database-queries#retrieving-results | Querying the Database | Convex Developer Hub
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Convex%20Dashboard&pos=0&uri=https://dashboard.convex.dev/login?from=%2Fprototorpedo%2Fmetamask-dashboard%2Fastute-worm-969%2Fdata | Convex Dashboard
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=React%20Autocomplete%20component%20-%20Material%20UI&pos=0&uri=https://mui.com/material-ui/react-autocomplete/ | React Autocomplete component - Material UI
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=How%20Big%20Is%20the%20Derivatives%20Market%3F&pos=159&uri=https://www.investopedia.com/ask/answers/052715/how-big-derivatives-market.asp | How Big Is the Derivatives Market?
+https://devhints.io/knex | Knex cheatsheet
+
+https://www.statlearning.com/resources-second-edition | Resources - Second Edition — An Introduction to Statistical Learning
+
+https://sprkl.dev/?ref=console.dev | Sprkl
+https://sizzy.co/features | Sizzy Features
+https://ably.com/examples/live-charts | Live Charts | Ably Realtime
+
+https://passiv.com/tutorials/ | Tutorials | Passiv
+https://www.suredividend.com/ | Welcome to Sure Dividend - Sure Dividend
+https://finnhub.io/pricing | Pricing for global company fundamentals, stock API market data and estimates.
+https://alpaca.markets/docs/trading/getting-started/ | Getting Started | Alpaca Docs
+
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=public-apis%2Fpublic-apis%3A%20A%20collective%20list%20of%20free%20APIs&pos=11908.5712890625&uri=https://github.com/public-apis/public-apis#cryptocurrency | public-apis/public-apis: A collective list of free APIs
+https://free-apis.github.io/#/categories/Cryptocurrency | Cryptocurrency - Free APIs
+https://www.qhhtromania.ro/contact/ | Contact - QHHT Romania
+https://andy-porter.co.uk/appointments-choices/ | Appointment Choices – Andrew Porter
+https://deliverfund.org/the-truth-about-ghislaine-maxwells-trial/ | The Truth About the Evidence from Ghislaine Maxwell's Trial - DeliverFund.org
+https://www.coursera.org/learn/mindware/home/week/1 | Mindware: Critical Thinking for the Information Age - Introduction | Coursera
+https://trends.co/articles/5-business-ideas-from-twitter/?utm_source=optinblast&utm_medium=fnl4&utm_content=education&utm_campaign=5-big-business-ideas-sourced-from-twitter-082922&utm_term=twitter-082922 | 5 Business Ideas From Twitter - Trends by The Hustle
+
+https://tinyhouseplans.com/the-byron-tiny-house-247-x-910-x-147/ | The Byron Tiny House 24'7" x 9'10" x 14'7" - Tiny House Plans
+
+https://legislatie.just.ro/Public/DetaliiDocument/27007 | CONVENTIE 04/04/1997 - Portal Legislativ
+https://phmpt.org/pfizers-documents/ | Pfizer's Documents - Public Health and Medical Professionals for Transparency
+https://www.thesovereignproject.live/how-the-sovereign-fraternity | How: The Sovereign Fraternity | Sovereign Project
+https://en.wikipedia.org/wiki/Civil_law_(legal_system) | Civil law (legal system) - Wikipedia
+https://en.wikipedia.org/wiki/Roman_law | Roman law - Wikipedia
+
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=ibraheemdev%2Fmodern-unix%3A%20A%20collection%20of%20modern%2Ffaster%2Fsaner%20alternatives%20to%20common%20unix%20commands.&pos=189.2857208251953&uri=https://github.com/ibraheemdev/modern-unix?utm_source=newsletter&utm_medium=email&utm_campaign=Spatie+TLDR+%231 | ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.
+https://github.com/cube2222/octosql?ref=console.dev | cube2222/octosql at console.dev
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=learning-vuejs%20%2F%20vuejs-2-recipes%20%C2%B7%20GitLab&pos=0&uri=https://gitlab.com/learning-vuejs/vuejs-2-recipes | learning-vuejs / vuejs-2-recipes · GitLab
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Bookshelf.js%20%7C%20API%20Reference&pos=4807.5&uri=https://bookshelfjs.org/api.html#Bookshelf-instance-transaction | Bookshelf.js | API Reference
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=TryGhost%2Fbookshelf-relations%3A%20A%20bookshelf%20plugin%20which%20handles%20relationships.&pos=2472.142822265625&uri=https://github.com/TryGhost/bookshelf-relations | TryGhost/bookshelf-relations: A bookshelf plugin which handles relationships.
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=bookshelf%2Fvirtuals-plugin%3A%20Allows%20getting%2Fsetting%20virtual%20(computed)%20properties%20on%20model%20instances.&pos=664.2857055664062&uri=https://github.com/bookshelf/virtuals-plugin | bookshelf/virtuals-plugin: Allows getting/setting virtual (computed) properties on model instances.
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=bookshelf%2Fcase-converter-plugin%3A%20Bookshelf%20plugin%20for%20handling%20the%20conversion%20between%20the%20database's%20snake_cased%20and%20a%20model's%20camelCased%20properties%20automatically.&pos=0&uri=https://github.com/bookshelf/case-converter-plugin | bookshelf/case-converter-plugin: Bookshelf plugin for handling the conversion between the database's snake_cased and a model's camelCased properties automatically.
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=bookshelf%2Fprocessor-plugin%3A%20Bookshelf%20plugin%20that%20allows%20defining%20custom%20processor%20functions%20that%20handle%20transformation%20of%20values%20whenever%20they%20are%20set%20on%20a%20model.&pos=0&uri=https://github.com/bookshelf/processor-plugin | bookshelf/processor-plugin: Bookshelf plugin that allows defining custom processor functions that handle transformation of values whenever they are set on a model.
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=ericclemmons%2Fbookshelf-manager%3A%20Easily%20wire%20up%20models%20to%20APIs%20with%20supported%20for%20complex%2C%20nested%20saving.&pos=0&uri=https://github.com/ericclemmons/bookshelf-manager | ericclemmons/bookshelf-manager: Easily wire up models to APIs with supported for complex, nested saving.
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=bookshelf-eloquent%20-%20npm&pos=0&uri=https://www.npmjs.com/package/bookshelf-eloquent | bookshelf-eloquent - npm
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Plugin%3A%20Model%20Registry%20%C2%B7%20bookshelf%2Fbookshelf%20Wiki&pos=0&uri=https://github.com/bookshelf/bookshelf/wiki/Plugin:-Model-Registry | Plugin: Model Registry · bookshelf/bookshelf Wiki
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Plugin%3A%20Visibility%20%C2%B7%20bookshelf%2Fbookshelf%20Wiki&pos=0&uri=https://github.com/bookshelf/bookshelf/wiki/Plugin:-Visibility | Plugin: Visibility · bookshelf/bookshelf Wiki
+
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Sabii%20-%20Militaryshopautoaparare.ro&pos=2385&uri=https://www.militaryshopautoaparare.ro/catalog/sabii-41?s=price_asc | Sabii - Militaryshopautoaparare.ro
+
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Chapters&pos=4635&uri=https://www.cultofthemedics.com/chapters.html | Chapters
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Lab%20%7C%20Quantified%20Mind&pos=0&uri=http://www.quantified-mind.com/lab | Lab | Quantified Mind
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=The%20Bull%2FBear%20Line%20in%20the%20Sand%20(Newsletter%20%2350)%20-%20calin.s.bogdan%40gmail.com%20-%20Gmail&pos=0&uri=https://mail.google.com/mail/u/0/#inbox/FMfcgzGllVhljkktjsKkZCQjFJDlDbjz | The Bull/Bear Line in the Sand (Newsletter #50) - calin.s.bogdan@gmail.com - Gmail
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=POWELL%20ASSASSINATES%20ECONOMY!%20-%20calin.s.bogdan%40gmail.com%20-%20Gmail&pos=0&uri=https://mail.google.com/mail/u/0/#inbox/FMfcgzGmtNbPdLglDnfmxgqfzzDrgmhQ | POWELL ASSASSINATES ECONOMY! - calin.s.bogdan@gmail.com - Gmail
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=technology-radar-vol-24-en.pdf&pos=0&uri=https://assets.thoughtworks.com/assets/technology-radar-vol-24-en.pdf | technology-radar-vol-24-en.pdf
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=LUNA'S%20BIGGEST%20YIELD%20OPPORTUNITIES%20FOR%20CRYPTO%20PASSIVE%20INCOME!%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=ZLMm49F6fvw | LUNA'S BIGGEST YIELD OPPORTUNITIES FOR CRYPTO PASSIVE INCOME! - YouTube
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Strapi%20-%20Open%20source%20Node.js%20Headless%20CMS%20%F0%9F%9A%80&pos=0&uri=https://strapi.io/?utm_source=console.dev&utm_medium=referral&utm_campaign=newsletter&ref=console.dev | Strapi - Open source Node.js Headless CMS 🚀
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Complete%20Cryptocurrency%20Leverage%20Trading%20Tutorial%20for%20Beginners%20(Margin%20Trading)%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=BPnYtLiosBU&t=19s | Complete Cryptocurrency Leverage Trading Tutorial for Beginners (Margin Trading) - YouTube
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Top%2011%20Binance%20Smart%20Chain%20Projects%20in%202022!%20%F0%9F%94%A5%20BSC%20Defi%20GEMS%20with%20CRAZY%20Low%20Market%20Caps!%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=hL_gVooc-1E&t=625s | Top 11 Binance Smart Chain Projects in 2022! 🔥 BSC Defi GEMS with CRAZY Low Market Caps! - YouTube
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=NativeScript&pos=0&uri=https://nativescript.org/ | NativeScript
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Using%20Capacitor%20with%20Angular%20-%20Capacitor&pos=0&uri=https://capacitorjs.com/solution/angular | Using Capacitor with Angular - Capacitor
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=%40CryptoCred%20Technical%20Analysis%20Lessons%20-%20Google%20Docs&pos=0&uri=https://docs.google.com/document/d/15c3rN15rkXldY8Te3GDG4NG7noaaoikydOoZQlElwXw/edit | @CryptoCred Technical Analysis Lessons - Google Docs
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=WALTR%202%3A%20Transfer%20Files%20to%20iPhone%2C%20iPad%20%26%20iPod%20From%20Mac%20or%20PC%20%7C%20Softorino%20Site&pos=318&uri=https://softorino.com/legacy/waltr/ | WALTR 2: Transfer Files to iPhone, iPad & iPod From Mac or PC | Softorino Site
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Top%20In%20Demand%20Web%203%200%20Dev%20Skills%20You%20must%20know!%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=-Bt0ubATuNg&t=0s | Top In Demand Web 3 0 Dev Skills You must know! - YouTube
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=DON%E2%80%99T%20DO%20THIS!!%20Some%20of%20the%20WORST%20Crypto%20Advice!!%20%E2%9B%94%EF%B8%8F%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=lRIJIxfS5Ck&t=83s | DON’T DO THIS!! Some of the WORST Crypto Advice!! ⛔️ - YouTube
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=binance-spot-api-docs%2Frest-api.md%20at%20master%20%C2%B7%20binance%2Fbinance-spot-api-docs&pos=4184.28564453125&uri=https://github.com/binance/binance-spot-api-docs/blob/master/rest-api.md#general-api-information | binance-spot-api-docs/rest-api.md at master · binance/binance-spot-api-docs
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=The%205%20WORST%20Crypto%20Mistakes%20To%20Avoid%20-%20Don't%20Lose%20Money!%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=LXfG4B2wXHE&t=17s | The 5 WORST Crypto Mistakes To Avoid - Don't Lose Money! - YouTube
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=(2)%20How%20To%20Identify%20Swing%20Highs%20%26%20Lows%20(Only%20Top%205%25%20Of%20Traders%20Know%20How%20This%20Works)%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=AHvDE9TxFLU&t=1111s | (2) How To Identify Swing Highs & Lows (Only Top 5% Of Traders Know How This Works) - YouTube
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=CRYPTO%20CANDLESTICK%20PERCEPTION%20-%20LESSON%203%20%7C%20Candlestick%20Psychology%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=phpwd5zzByM&list=PL82MQ-MqnRHaZruy_v6bDrOPcX-mDEmEs&index=7&t=8s | CRYPTO CANDLESTICK PERCEPTION - LESSON 3 | Candlestick Psychology - YouTube
+
+https://vanclan.co/living-off-the-grid/ | How To Live Off The Grid In A Camper
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=25%20Life%20Changing%20Quotes%20By%20Rumi%20That%20Will%20Teach%20You%20To%20Trust%20Yourself&uri=http://www.spysparrow.me/story/515/25-life-changing-quotes-by-rumi-that-will-teach-you-to-trust-yourself/?page=3 | 25 Life Changing Quotes By Rumi That Will Teach You To Trust Yourself
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=101%20Things%20to%20Do%20Instead%20of%20Smoking&uri=https://www.verywellmind.com/things-to-do-instead-of-smoking-2824746 | 101 Things to Do Instead of Smoking
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=A%20Few%20Things%20Still%20to%20Be%20Grateful%20For%20-%20The%20Book%20of%20LifeThe%20Book%20of%20Life&uri=https://www.theschooloflife.com/thebookoflife/a-few-things-still-be-to-be-grateful-for/ | A Few Things Still to Be Grateful For - The Book of LifeThe Book of Life
+https://www.thenewatlantis.com/publications/evolution-and-the-purposes-of-life | Evolution and the Purposes of Life - The New Atlantis
+
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(1)%20Here%20are%20the%20very%20best%20videos%20we%20featured%20in...%20-%20People%20Are%20Awesome&uri=https://www.facebook.com/peopleareawesome/videos/1542174665831706/?hc_ref=ARSiQRtDgCQ2sDZgswMzMcZgi703vVkGqsi0IFv42e5U2A_DD11p5FMJN3Ree0WDwM4 | (1) Here are the very best videos we featured in... - People Are Awesome
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Hacker%20Paradise%3A%20A%20Traveling%20Community%20for%20Developers%2C%20Designers%2C%20and%20Other%20Creative%20Types.&uri=https://www.hackerparadise.org/join-us/ | Hacker Paradise: A Traveling Community for Developers, Designers, and Other Creative Types.
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Remote%20Year%20%7C%20Global%20Professional%20Work%20and%20Travel%20Communities&uri=https://www.remoteyear.com/?utm_expid=90911645-57._AhUEzbdTpSUNnSRkhvOnA.0 | Remote Year | Global Professional Work and Travel Communities
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Cheap%20Cities%20with%20Clean%20Air%20with%20Good%20Food&uri=https://nomadlist.com/cheap-cities-with-clean-air-with-good-food | Cheap Cities with Clean Air with Good Food
+http://nautil.us/issue/17/big-bangs/how-i-rewired-my-brain-to-become-fluent-in-math-rd | How I Rewired My Brain to Become Fluent in Math - Issue 17: Big Bangs - Nautilus
+
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Is%20it%20any%20way%20to%20see%2Fknow%20what%20stocks%20hedge%20funds%20are%20buying%3F%20-%20Quora&pos=0&uri=https://www.quora.com/Is-it-any-way-to-see-know-what-stocks-hedge-funds-are-buying?share=1 | Is it any way to see/know what stocks hedge funds are buying? - Quora
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Hedge%20Fund%20Holdings%20Tracker&pos=0&uri=https://www.holdingschannel.com/hedge-fund-holdings-tracker/ | Hedge Fund Holdings Tracker
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Track%20Hedge%20Funds%20Using%2013F%20Filings&pos=0&uri=https://whalewisdom.com/ | Track Hedge Funds Using 13F Filings
+chrome-extension://ahmkjjgdligadogjedmnogbpbcpofeeo/html/suspended.html#ttl=Follow%20Stock%20Investments%20of%20Hedge%20Funds%20%7C%20HedgeFollow&pos=0&uri=https://hedgefollow.com/ | Follow Stock Investments of Hedge Funds | HedgeFollow
+

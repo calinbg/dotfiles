@@ -13,4 +13,4 @@ scipy
 freqtrade
 scikit-learn
 sqlalchemy
-TA-Lib==0.4
+TA-Lib==0.4.38

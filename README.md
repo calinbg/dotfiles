@@ -1,3 +1,4 @@
-Laravel, MySQL (Planetscale), Redis, Tailwind, Livewire
+### What else do I need?
 
-Plus a number of really useful extensions, though if we were to start a new project I'd say Octane, Filament, Sanctum, Scribe are must-haves.
+- pi terminal
+-

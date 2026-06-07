@@ -82,4 +82,7 @@ sudo gpasswd -a $USER docker
 # .zshrc, bash_aliases, bash_functions, etc.
 cp -TRv ./files/ $HOME/
 
+# AI tools, etc.
+bash ./ai-tools.sh
+
 echo "Done!!!!"

@@ -1,0 +1,10 @@
+[Interface]
+PrivateKey = qLyyMrM1Q4qmI5fOJswpgDEhjhchFlAOBANU3UO0rk4=
+Address = 10.181.3.2/24
+DNS = 208.67.222.222, 208.67.220.220
+
+[Peer]
+PublicKey = VZw3lFQ30KUNLnTtbQBLSD7oWfDLjVwUxGbOCZ2AJwo=
+PresharedKey = wIwAFQ+OGUjAAZPIy5MLxvV8l4dX5oIKdJ/YP0jWG8I=
+Endpoint = prototorpedo-home.go.ro:51820
+AllowedIPs = 0.0.0.0/0, ::0/0

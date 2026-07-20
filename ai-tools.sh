@@ -65,6 +65,21 @@ install_appimage_url() {
     fi
 }
 
+search_install_deb_url() {
+    local name="$1" url="$2"
+    info "Checking ${name} latest release..."
+    DEB_URL=$(
+        curl -fsSL ${url} \
+        | grep -oP '"browser_download_url"\s*:\s*"\K[^"]+amd64\.deb'
+    ) || true
+
+    if [[ -n "$DEB_URL" ]]; then
+        install_deb_url "${name}" "$DEB_URL"
+    else
+        warn "Could not find ${name} .deb in latest release"
+    fi
+}
+
 # ── System packages ──────────────────────────────────────────────────────────
 info "Running apt update..."
 sudo apt-get update -q
@@ -78,6 +93,19 @@ ok "Ollama → $(ollama --version 2>/dev/null || echo 'installed')"
 info "### OpenCode..."
 curl -fsSL https://opencode.ai/install | bash
 ok "OpenCode → $(opencode --version 2>/dev/null || echo 'installed')"
+
+# ── Copilot CLI ──────────────────────────────────────────────────────────────
+curl -fsSL https://gh.io/copilot-install | bash
+ok "Copilot CLI → $(copilot --version 2>/dev/null || echo 'installed')"
+
+# ── Charm       ──────────────────────────────────────────────────────────────
+# ── Devin? ──────────────────────────────────────────────────────────────
+# ── Goose? ──────────────────────────────────────────────────────────────
+
+#### EDITORS
+
+# ── Zed ───────────────────────────────────────────────────────────────────
+curl -f https://zed.dev/install.sh | sh
 
 # ── Cursor ───────────────────────────────────────────────────────────────────
 # Cursor ships as an AppImage; grab the latest from their API
@@ -99,28 +127,45 @@ sudo apt-get install -y -q warp-terminal \
     && ok "Warp updated → $(warp-terminal --version 2>/dev/null || echo 'installed')" \
     || warn "Warp install via apt failed"
 
-# ── Obsidian ─────────────────────────────────────────────────────────────────
-info "Checking Obsidian latest release..."
-OBSIDIAN_DEB_URL=$(
-    curl -fsSL https://api.github.com/repos/obsidianmd/obsidian-releases/releases/latest \
-    | grep -oP '"browser_download_url"\s*:\s*"\K[^"]+amd64\.deb'
-) || true
-
-if [[ -n "$OBSIDIAN_DEB_URL" ]]; then
-    install_deb_url "Obsidian" "$OBSIDIAN_DEB_URL"
-else
-    warn "Could not find Obsidian .deb in latest release"
-fi
-
 # ── Antigravity (pip) ─────────────────────────────────────────────────────────
-info "Updating antigravity (pip)..."
-if command -v pip3 &>/dev/null; then
-    pip3 install --upgrade antigravity --break-system-packages -q \
-        && ok "antigravity updated" \
-        || warn "pip install antigravity failed"
-else
-    warn "pip3 not found, skipping antigravity"
-fi
+# info "Updating antigravity (pip)..."
+# if command -v pip3 &>/dev/null; then
+#     pip3 install --upgrade antigravity --break-system-packages -q \
+#         && ok "antigravity updated" \
+#         || warn "pip install antigravity failed"
+# else
+#     warn "pip3 not found, skipping antigravity"
+# fi
+
+### EXTRAS
+
+# ── Obsidian ─────────────────────────────────────────────────────────────────
+search_install_deb_url https://api.github.com/repos/obsidianmd/obsidian-releases/releases/latest Obsidian
+# info "Checking Obsidian latest release..."
+# OBSIDIAN_DEB_URL=$(
+#     curl -fsSL https://api.github.com/repos/obsidianmd/obsidian-releases/releases/latest \
+#     | grep -oP '"browser_download_url"\s*:\s*"\K[^"]+amd64\.deb'
+# ) || true
+
+# if [[ -n "$OBSIDIAN_DEB_URL" ]]; then
+#     install_deb_url "Obsidian" "$OBSIDIAN_DEB_URL"
+# else
+#     warn "Could not find Obsidian .deb in latest release"
+# fi
+
+# ── Limux ─────────────────────────────────────────────────────────────────
+search_install_deb_url https://api.github.com/repos/am-will/limux/releases/latest Limux
+# info "Checking Limux latest release..."
+# LIMUX_DEB_URL=$(
+#     curl -fsSL https://api.github.com/repos/am-will/limux/releases/latest \
+#     | grep -oP '"browser_download_url"\s*:\s*"\K[^"]+amd64\.deb'
+# ) || true
+
+# if [[ -n "$LIMUX_DEB_URL" ]]; then
+#     install_deb_url "Obsidian" "$LIMUX_DEB_URL"
+# else
+#     warn "Could not find Limux .deb in latest release"
+# fi
 
 # ── Optional: pull latest Ollama models you use ──────────────────────────────
 # Uncomment and extend this list to keep your local models fresh:

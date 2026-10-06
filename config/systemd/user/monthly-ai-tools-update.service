@@ -1,0 +1,6 @@
+[Unit]
+Description=Monthly AI / dev tools update
+
+[Service]
+Type=oneshot
+ExecStart=%h/Code/dotfiles/monthly-ai-tools-update.sh

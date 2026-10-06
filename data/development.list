@@ -10,11 +10,11 @@ python3-virtualenv
 python3-dnspython
 sqlite3
 vim
-docker
-docker-compose
+#docker
+#docker-compose
 r-base
 php-cli
-vstudio
+#vstudio
 code
 php-gd
 php-sqlite3
@@ -25,4 +25,9 @@ php-xml
 php-mbstring
 php-sqlite3
 php-xsl
-sublime-text
+#sublime-text
+docker-ce
+docker-ce-cli
+containerd.io
+docker-buildx-plugin
+docker-compose-plugin

@@ -1,4 +1,3 @@
-pip install --upgrade pip
 #!/usr/bin/env bash
 
 set -uo pipefail
@@ -29,6 +28,29 @@ STATUS_RUNNING="running"
 STATUS_DONE="done"
 STATUS_FAILED="failed"
 
+STATE_FILE="${HOME}/.dotfiles-init-state"
+
+save_state() {
+	local tmpfile
+	tmpfile=$(mktemp)
+	for i in "${!STEP_STATUS[@]}"; do
+		if [[ ${STEP_STATUS[$i]} == "$STATUS_DONE" ]]; then
+			echo "$i" >> "$tmpfile"
+		fi
+	done
+	mv "$tmpfile" "$STATE_FILE"
+}
+
+load_state() {
+	if [[ -f "$STATE_FILE" ]]; then
+		while IFS= read -r idx; do
+			if [[ "$idx" =~ ^[0-9]+$ ]] && (( idx >= 0 && idx < ${#STEP_STATUS[@]} )); then
+				STEP_STATUS[$idx]=$STATUS_DONE
+			fi
+		done < "$STATE_FILE"
+	fi
+}
+
 append_step() {
 	STEP_NAMES+=("$1")
 	STEP_DESCRIPTIONS+=("$2")
@@ -40,23 +62,11 @@ run_with_spinner() {
 	local command_text="$1"
 	local label="$2"
 	local logfile="/tmp/init-step-${step_index}.$$.log"
-	local spin='|/-\\'
-	local i=0
 
-	printf '%s' "$label"
+	printf '%s\n' "$label"
 	set +e
-	bash -lc "$command_text" >"$logfile" 2>&1 &
-	local pid=$!
-
-	while kill -0 "$pid" 2>/dev/null; do
-		printf '\b%s' "${spin:i%4:1}"
-		sleep 0.1
-		((i++))
-	done
-
-	wait "$pid"
+	bash -c "$command_text" > >(tee "$logfile") 2>&1
 	local rc=$?
-	printf '\b'
 	if [[ $rc -eq 0 ]]; then
 		printf '%s\n' "$(green)OK$(reset_colors)"
 	else
@@ -73,10 +83,12 @@ execute_step() {
 	local step_func=${STEP_FUNCS[$index]}
 
 	STEP_STATUS[$index]=$STATUS_RUNNING
+	step_index=$index
 	draw_menu
 	printf '\n%s %s\n' "$(bold)Running step #$((index + 1)):$(reset_colors)" "$step_name"
 	if $step_func; then
 		STEP_STATUS[$index]=$STATUS_DONE
+		save_state
 		echo "$(green)Step completed.$(reset_colors)"
 	else
 		STEP_STATUS[$index]=$STATUS_FAILED
@@ -191,8 +203,16 @@ step_copy_dotfiles() {
 	run_with_spinner "cp -TRv ./files/ $HOME/" "Copying dotfiles to home... "
 }
 
+step_apply_gnome_settings() {
+	run_with_spinner "bash ./config/gnome/apply-gnome-settings.sh" "Applying GNOME / Pop OS settings... "
+}
+
 step_run_ai_tools() {
 	run_with_spinner "bash ./ai-tools.sh" "Running AI tools installer... "
+}
+
+step_enable_monthly_ai_tools_update() {
+	run_with_spinner "mkdir -p \"\$HOME/.config/systemd/user\" && cp -f \"\$PWD/config/systemd/user/monthly-ai-tools-update.service\" \"\$HOME/.config/systemd/user/\" && cp -f \"\$PWD/config/systemd/user/monthly-ai-tools-update.timer\" \"\$HOME/.config/systemd/user/\" && systemctl --user daemon-reload && systemctl --user enable monthly-ai-tools-update.timer" "Enabling monthly AI tools update timer... "
 }
 
 main() {
@@ -210,7 +230,11 @@ main() {
 	append_step "Install IRKernel" "Install R kernel for Jupyter and lab extensions" step_install_irkernel
 	append_step "Setup Docker" "Enable Docker service and group membership" step_setup_docker
 	append_step "Copy dotfiles" "Copy files/ contents into home directory" step_copy_dotfiles
+	append_step "Apply GNOME settings" "Apply GNOME / Pop OS desktop settings and extensions" step_apply_gnome_settings
 	append_step "Run AI tools" "Run ai-tools.sh script" step_run_ai_tools
+	append_step "Enable monthly AI tools update" "Install systemd timer for monthly tool updates" step_enable_monthly_ai_tools_update
+
+	load_state
 
 	if [[ ${1:-} == "--run-all" ]]; then
 		run_all_steps
@@ -240,7 +264,7 @@ Available commands:
 	h    Show this help message
 	<num> Run the numbered step
 EOF
-				read -rsp $'Press any key to continue...'
+				printf '\n'
 				;;
 			q|Q)
 				printf '\nExiting.\n'

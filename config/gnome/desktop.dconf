@@ -1,0 +1,48 @@
+[app-folders]
+folder-children=['Utilities', 'YaST', 'Pardus']
+
+[app-folders/folders/Pardus]
+categories=['X-Pardus-Apps']
+name='X-Pardus-Apps.directory'
+translate=true
+
+[app-folders/folders/Utilities]
+apps=['gnome-abrt.desktop', 'gnome-system-log.desktop', 'nm-connection-editor.desktop', 'org.gnome.baobab.desktop', 'org.gnome.Connections.desktop', 'org.gnome.DejaDup.desktop', 'org.gnome.Dictionary.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.Evince.desktop', 'org.gnome.FileRoller.desktop', 'org.gnome.fonts.desktop', 'org.gnome.Loupe.desktop', 'org.gnome.seahorse.Application.desktop', 'org.gnome.tweaks.desktop', 'org.gnome.Usage.desktop', 'vinagre.desktop']
+categories=['X-GNOME-Utilities']
+name='X-GNOME-Utilities.directory'
+translate=true
+
+[app-folders/folders/YaST]
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
+translate=true
+
+[input-sources]
+sources=[('xkb', 'us')]
+xkb-options=@as []
+
+[interface]
+color-scheme='prefer-dark'
+cursor-theme='Pop'
+enable-hot-corners=true
+gtk-theme='adw-gtk3-dark'
+icon-theme='Numix-Circle'
+
+[peripherals/touchpad]
+two-finger-scrolling-enabled=true
+
+[search-providers]
+sort-order=['org.gnome.Contacts.desktop', 'org.gnome.Documents.desktop', 'org.gnome.Nautilus.desktop']
+
+[sound]
+theme-name='Pop'
+
+[wm/keybindings]
+move-to-workspace-down=['<Control><Shift><Alt>Down', '<Super><Shift>Page_Down']
+move-to-workspace-left=['<Super><Shift><Alt>Left', '<Control><Shift><Alt>Left']
+move-to-workspace-right=['<Super><Shift><Alt>Right', '<Control><Shift><Alt>Right']
+move-to-workspace-up=['<Control><Shift><Alt>Up', '<Super><Shift>Page_Up']
+switch-to-workspace-down=['<Control><Alt>Down', '<Super>Page_Down']
+switch-to-workspace-left=['<Super><Alt>Left', '<Control><Alt>Left']
+switch-to-workspace-right=['<Super><Alt>Right', '<Control><Alt>Right']
+switch-to-workspace-up=['<Control><Alt>Up', '<Super>Page_Up']

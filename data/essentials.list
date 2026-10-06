@@ -18,8 +18,8 @@ apt-transport-https
 snapd
 transmission
 nautilus-dropbox
-telegram-desktop
-discord
+#telegram-desktop
+#discord
 numix-icon-theme-circle
 gnome-tweaks
 anki

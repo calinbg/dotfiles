@@ -32,25 +32,31 @@ This repository contains personal Ubuntu dotfiles, shell configuration, and auto
 └── config/
     ├── gnome/
     │   ├── apply-gnome-settings.sh  # Apply (or --capture) GNOME/Pop OS settings
-    │   ├── extensions.dconf         # GNOME extension settings snapshot
-    │   ├── desktop.dconf            # Appearance/window-manager settings snapshot
-    │   └── shell.dconf              # Shell enabled-extensions/apps snapshot
+    │   ├── gnome.dconf              # Full dconf snapshot of /org/gnome/
+    │   ├── gtk.dconf                # dconf snapshot of /org/gtk/
+    │   ├── gtk-3.0-settings.ini     # GTK 3 settings.ini snapshot
+    │   ├── gtk-3.0-bookmarks        # GTK/Nautilus bookmarks snapshot
+    │   └── gtk-4.0-settings.ini     # GTK 4 settings.ini snapshot
     └── terminator/
         └── config       # Terminator terminal profile
 ```
 
-The `config/gnome/` snapshots capture the GNOME Shell extension and appearance
-settings that recreate a Pop!_OS 22.04-style GNOME desktop (Pop theme, Fira
-fonts, dash-to-dock, pop-shell, ArcMenu, ArcMenu runner layout, etc.). The
-wizard step "Apply GNOME settings" runs `apply-gnome-settings.sh` to reapply
-them. To refresh the snapshots after changing settings:
+The `config/gnome/` snapshots capture this machine's full GNOME configuration
+(dconf settings, GTK settings/bookmarks, Terminator profile, and the enabled
+extensions list) that recreate a Pop!_OS-style GNOME desktop (Pop theme,
+dash-to-dock, pop-shell, ArcMenu runner layout, etc.). The wizard step "Apply
+GNOME settings" runs `apply-gnome-settings.sh` to reapply them. To refresh the
+snapshots after changing settings:
 
 ```bash
 bash config/gnome/apply-gnome-settings.sh --capture
 ```
 
-The reapply script only loads dconf data and will warn (and exit) if any of
-the required extensions listed in `REQUIRED_EXTENSIONS` are not installed.
+On reapply, the script downloads and installs any missing extensions listed in
+`REQUIRED_EXTENSIONS` (from extensions.gnome.org, except pop-shell which comes
+from the Pop!_OS apt repo), copies the GTK/Terminator files into place, then
+loads the dconf snapshots. It exits non-zero only if an extension fails to
+install.
 
 ## How to run the provisioning script
 
@@ -93,7 +99,7 @@ High-level order of operations (defined in `init.sh:step_*` functions and regist
 
 - Throttles itself to once every 30 days using `~/.local/share/ai-tools-updater/last_run`.
 - Logs to `~/.local/share/ai-tools-updater/update.log`.
-- Installs/updates Ollama, OpenCode, Copilot CLI, Zed, Cursor, Warp, Obsidian, and Limux.
+- Installs/updates Ollama, OpenCode, Copilot CLI, Pi Agent, Crush, Zed, Ghostty, Antigravity (CLI + IDE), Cursor, Warp, Obsidian, and Limux.
 - Installs/updates the Antigravity IDE from a Google CDN tar.gz into `~/.local/opt/antigravity-ide`, with a `~/.local/bin/antigravity-ide` launcher symlink, an app icon, and a `.desktop` entry so it appears in the application menu.
 - Uses `wget`, `curl`, `dpkg`, `apt-get`, and GitHub release APIs.
 

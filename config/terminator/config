@@ -1,29 +1,67 @@
 [global_config]
-  geometry_hinting = True
   suppress_multiple_term_dialog = True
 [keybindings]
-  split_horiz = <Primary><Shift>h
-  split_vert = <Primary><Shift>j
 [profiles]
   [[default]]
+    visible_bell = True
     background_color = "#282828"
-    cursor_color = "#aaaaaa"
-    font = Fira Mono Medium 14
+    background_darkness = 0.59
+    cursor_fg_color = "#000000"
+    cursor_bg_color = "#aaaaaa"
+    font = Fira Mono Medium 13
     foreground_color = "#ebdbb2"
-    scrollback_lines = 5000
+    palette = "#282828:#cc241d:#98971a:#d79921:#458588:#b16286:#689d6a:#a89984:#928374:#fb4934:#b8bb26:#fabd2f:#83a598:#d3869b:#8ec07c:#ebdbb2"
     use_system_font = False
     copy_on_selection = True
-  [[light]]
-    background_color = "#fbf1c7"
-    cursor_color = "#aaaaaa"
-    foreground_color = "#3c3836"
 [layouts]
   [[default]]
-    [[[window0]]]
+    [[[child0]]]
       type = Window
       parent = ""
-    [[[child1]]]
+      order = 0
+      position = 35:32
+      maximised = False
+      fullscreen = False
+      size = 816, 549
+      title = calinbg@pop-os:~
+      last_active_term = fe687301-f522-4a15-8120-cdc4c7d567f6
+      last_active_window = True
+    [[[terminal1]]]
       type = Terminal
-      parent = window0
+      parent = child0
+      order = 0
       profile = default
+      uuid = fe687301-f522-4a15-8120-cdc4c7d567f6
+  [[Agents mode]]
+    [[[child0]]]
+      type = Window
+      parent = ""
+      order = 0
+      position = 35:32
+      maximised = False
+      fullscreen = False
+      size = 1868, 696
+      title = calinbg@pop-os:~/Code/binance-statement-helper
+      last_active_term = 20adcecb-71b3-4552-a375-9d766496dfd3
+      last_active_window = True
+    [[[child1]]]
+      type = HPaned
+      parent = child0
+      order = 0
+      position = 932
+      ratio = 0.5002683843263553
+    [[[terminal2]]]
+      type = Terminal
+      parent = child1
+      order = 0
+      profile = default
+      uuid = 50721825-9b2d-4027-b2ac-e5ca4cbb23b5
+      directory = ~/Code
+    [[[terminal3]]]
+      type = Terminal
+      parent = child1
+      order = 1
+      profile = default
+      uuid = 20adcecb-71b3-4552-a375-9d766496dfd3
+      directory = ~/Code
 [plugins]

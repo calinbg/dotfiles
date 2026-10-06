@@ -154,6 +154,11 @@ install_curl_bash "Pi Agent" "https://pi.dev/install.sh" pi
 info "### Zed..."
 install_curl_bash "Zed" "https://zed.dev/install.sh" zed
 
+# ── Ghostty ────────────────────────────────────────────────────────────────
+# ghostty-ubuntu installer: downloads the latest .deb and installs via dpkg
+info "### Ghostty..."
+install_curl_bash "Ghostty" "https://raw.githubusercontent.com/mkasberg/ghostty-ubuntu/HEAD/install.sh" ghostty
+
 # ── Cursor ───────────────────────────────────────────────────────────────────
 # Cursor ships as an AppImage; grab the latest from their API
 info "### Cursor..."
